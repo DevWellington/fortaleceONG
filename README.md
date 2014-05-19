@@ -3,4 +3,4 @@ fortaleceONG
 
 This is the source code of the project fortaleceONG
 
-url: //fortaleceong.org
+url: http://fortaleceong.org
