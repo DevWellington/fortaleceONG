@@ -1,4 +1,4 @@
-Fortalece ONG <dot> org
+Fortalece ONG 
 ============
 
 This is the source code of the project fortaleceONG
